@@ -2765,14 +2765,14 @@ input, select, textarea {
 
 			@media screen and (max-width: 736px) {
 
-				.features li {
+				.features2 li {
 					padding: 3em 0 1em 0 ;
 					background-color: transparent !important;
 					border-top: solid 2px #fff;
 					width: 100%;
 				}
 
-					.features li:first-child {
+					.features2 li:first-child {
 						border-top: 0;
 					}
 
@@ -3090,7 +3090,7 @@ input, select, textarea {
 
 			@media screen and (max-width: 736px) {
 
-				.wrapper.style1 .features li {
+				.wrapper.style1 .features .features2 li {
 					border-top-color: rgba(0, 0, 0, 0.125);
 				}
 
